@@ -2,7 +2,7 @@
   "name": "nepse_api",
   "version": "1.0.0",
   "description": "Simple NEPSE API Wrapper to get closing price of Stocks",
-  "main": "index.js",
+  "main": "nepse_api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

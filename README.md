@@ -5,7 +5,7 @@ A simple NEPSE API wrapper to get closing price of every stock listed on NEPSE.
 ### # Usage
 
 ``` js
-  const { getClosingPrice } = require("./index");
+  const { getClosingPrice } = require("nepse_api");
 
   getClosingPrice("Nabil").then((res) => console.log(res));
 
